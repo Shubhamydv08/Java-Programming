@@ -1,0 +1,18 @@
+package loops;
+
+public class Aray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr= new int[5];
+		arr[0]= 71;
+		arr[1]=22;
+		arr[2]=13;
+		arr[3]=14;
+		arr[4]=15;
+		
+		System.out.println(arr[4]);
+
+	}
+
+}
